@@ -13,7 +13,7 @@ I also have a wide experience with the following technologies and tools:
 
 ## I like
 
-- [Sport](http://strava.com/athletes/40784552) I am running everyday
+- [Sport](http://strava.com/athletes/40784552) Run is my way of meditation
 
 ### Connect with me
 
