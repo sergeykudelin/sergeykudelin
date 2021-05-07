@@ -1,11 +1,11 @@
 ### Hi there, I'm Sergey Kudelin 👋
 
-I'm a DevOps engineer with 3+ years of experience and more 10+ years of operation engineer
+I'm a DevOps engineer with 3+ years of experience and more 10+ years of system administator experience 
 
 I also have a wide experience with the following technologies and tools:
 - Cloud providers: AWS, GCP, Azure
-- Infrastructure: Terraform, Ansible
-- Monitoring: Grafana, Alertmanager, Prometheus
+- Infrastructure: Terraform, Ansible, PrivateCloud, BareMetal
+- Monitoring: Grafana, Alertmanager, Prometheus, MS SCOM
 - Logging: Graylog
 - Apps: Docker, Kubernetes
 - CI/CD: Jenkins, Github Actions
