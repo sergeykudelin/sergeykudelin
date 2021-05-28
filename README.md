@@ -5,8 +5,8 @@ I'm a DevOps engineer with 3+ years of experience and more 10+ years of system a
 I also have a wide experience with the following technologies and tools:
 - Cloud providers: AWS, GCP, Azure
 - Infrastructure: Terraform, Ansible, PrivateCloud, BareMetal
-- Monitoring: Grafana, Alertmanager, Prometheus, MS SCOM
-- Logging: Graylog
+- Monitoring: Grafana, Alertmanager, Prometheus
+- Logging: Graylog, ELK Stack
 - Apps: Docker, Kubernetes
 - CI/CD: Jenkins, Github Actions
 - Programming: Bash, Python
