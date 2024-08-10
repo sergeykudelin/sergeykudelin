@@ -1,4 +1,4 @@
-### Hi there, I'm Sergey Kudelin 👋
+### Hi there, I'm Serhii Kudelin 👋
 
 I'm a DevOps engineer with 3+ years of experience and more 10+ years of system administator experience 
 
